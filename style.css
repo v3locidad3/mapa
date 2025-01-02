@@ -7,11 +7,11 @@
 }
 
 :root {
-    --cor-primaria: #ff6a13;  /* Laranja (cor predominante) */
-    --cor-secundaria: #003c71; /* Azul escuro */
-    --cor-terciaria: #f1f1f1; /* Cinza claro */
-    --cor-fundo: #ffffff; /* Branco (fundo claro) */
-    --cor-destaque: #f05a28; /* Laranja mais forte para destaque */
+    --cor-primaria: #ff6a13;  
+    --cor-secundaria: #003c71; 
+    --cor-terciaria: #f1f1f1; 
+    --cor-fundo: #ffffff;
+    --cor-destaque: #f05a28;
   }
 
   header form {
